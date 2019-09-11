@@ -3296,19 +3296,6 @@
 }/*#frm_SECTION_1*/
 
 
-#frm_SECTION_1:before {
-    box-sizing: border-box;
-    color: rgb(146, 146, 146);
-    overflow-wrap: break-word;
-    text-decoration: none solid rgb(146, 146, 146);
-    text-size-adjust: 100%;
-    column-rule-color: rgb(146, 146, 146);
-    caret-color: rgb(146, 146, 146);
-    border: 0px none rgb(146, 146, 146);
-    font: normal normal 200 normal 14px / 25.2px "Open Sans", sans-serif;
-    outline: rgb(146, 146, 146) none 0px;
-}/*#frm_SECTION_1:before*/
-
 #frm_DIV_2 {
     bottom: 0px;
     box-sizing: border-box;
@@ -3367,12 +3354,10 @@
     color: rgb(146, 146, 146);
     display: flex;
     height: 512px;
-    min-height: auto;
-    min-width: auto;
     overflow-wrap: break-word;
     text-decoration: none solid rgb(146, 146, 146);
     text-size-adjust: 100%;
-    width: 1140px;
+    width: 100%;
     column-rule-color: rgb(146, 146, 146);
     perspective-origin: 570px 256px;
     transform-origin: 570px 256px;
@@ -3382,37 +3367,7 @@
     outline: rgb(146, 146, 146) none 0px;
 }/*#frm_DIV_3*/
 
-#frm_DIV_3:after {
-    box-sizing: border-box;
-    color: rgb(146, 146, 146);
-    display: block;
-    min-height: auto;
-    min-width: auto;
-    overflow-wrap: break-word;
-    text-decoration: none solid rgb(146, 146, 146);
-    text-size-adjust: 100%;
-    column-rule-color: rgb(146, 146, 146);
-    caret-color: rgb(146, 146, 146);
-    border: 0px none rgb(146, 146, 146);
-    font: normal normal 200 normal 14px / 25.2px "Open Sans", sans-serif;
-    outline: rgb(146, 146, 146) none 0px;
-}/*#frm_DIV_3:after*/
 
-#frm_DIV_3:before {
-    box-sizing: border-box;
-    color: rgb(146, 146, 146);
-    display: block;
-    min-height: auto;
-    min-width: auto;
-    overflow-wrap: break-word;
-    text-decoration: none solid rgb(146, 146, 146);
-    text-size-adjust: 100%;
-    column-rule-color: rgb(146, 146, 146);
-    caret-color: rgb(146, 146, 146);
-    border: 0px none rgb(146, 146, 146);
-    font: normal normal 200 normal 14px / 25.2px "Open Sans", sans-serif;
-    outline: rgb(146, 146, 146) none 0px;
-}/*#frm_DIV_3:before*/
 
 #frm_DIV_4, #frm_DIV_50 {
     bottom: 0px;
@@ -4704,35 +4659,9 @@
     outline: rgb(30, 30, 30) none 0px;
 }/*#frm_DIV_28*/
 
-#frm_DIV_28:after {
-    box-sizing: border-box;
-    color: rgb(30, 30, 30);
-    min-height: auto;
-    min-width: auto;
-    overflow-wrap: break-word;
-    text-decoration: none solid rgb(30, 30, 30);
-    text-size-adjust: 100%;
-    column-rule-color: rgb(30, 30, 30);
-    caret-color: rgb(30, 30, 30);
-    border: 0px none rgb(30, 30, 30);
-    font: normal normal 300 normal 15px / 27px Roboto, sans-serif;
-    outline: rgb(30, 30, 30) none 0px;
-}/*#frm_DIV_28:after*/
 
-#frm_DIV_28:before {
-    box-sizing: border-box;
-    color: rgb(30, 30, 30);
-    min-height: auto;
-    min-width: auto;
-    overflow-wrap: break-word;
-    text-decoration: none solid rgb(30, 30, 30);
-    text-size-adjust: 100%;
-    column-rule-color: rgb(30, 30, 30);
-    caret-color: rgb(30, 30, 30);
-    border: 0px none rgb(30, 30, 30);
-    font: normal normal 300 normal 15px / 27px Roboto, sans-serif;
-    outline: rgb(30, 30, 30) none 0px;
-}/*#frm_DIV_28:before*/
+
+
 
 #frm_DIV_29 {
     box-sizing: border-box;
@@ -4752,18 +4681,6 @@
     transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-border-radius 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
 }/*#frm_DIV_29*/
 
-#frm_DIV_29:after {
-    box-sizing: border-box;
-    color: rgb(30, 30, 30);
-    overflow-wrap: break-word;
-    text-decoration: none solid rgb(30, 30, 30);
-    text-size-adjust: 100%;
-    column-rule-color: rgb(30, 30, 30);
-    caret-color: rgb(30, 30, 30);
-    border: 0px none rgb(30, 30, 30);
-    font: normal normal 300 normal 15px / 27px Roboto, sans-serif;
-    outline: rgb(30, 30, 30) none 0px;
-}/*#frm_DIV_29:after*/
 
 #frm_DIV_29:before {
     box-sizing: border-box;
@@ -4786,7 +4703,7 @@
     text-align: center;
     text-decoration: none solid rgb(30, 30, 30);
     text-size-adjust: 100%;
-    width: 550px;
+    width: 100%;
     column-rule-color: rgb(30, 30, 30);
     perspective-origin: 275px 27px;
     transform-origin: 275px 27px;
